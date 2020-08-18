@@ -40,4 +40,4 @@ Objective of this project is to implement various Predictive Maintenance methods
 
 ## Conclusion
 
-Remaining useful lives have been predicted using Random Forest and XG Boost machine learning models. R-squared value, which gives variation in the dependent variable (predicted - true) explained by the independent variables. In this case XG boost model better explanation than the Random forest model. Model can be further improved by hyperparameter tuning. After obtaining the best hyperparameter, cross validation can be carried out to obtain the range of R-squared value. 
+Remaining useful lives have been predicted using Random Forest and XG Boost machine learning algorithms. R-squared value, which gives variation in the dependent variable (predicted - true) explained by the independent variables. In this case XG boost model better explanation than the Random forest model. Model can be further improved by hyperparameter tuning. After obtaining the best hyperparameter, cross validation can be carried out to obtain the range of R-squared value. 
